@@ -1,0 +1,21 @@
+C:\Users\GamerHead\source\repos\Семестр 2 лаба 3\Семестр 2 лаба 3\bin\Debug\Семестр 2 лаба 3.exe.config
+C:\Users\GamerHead\source\repos\Семестр 2 лаба 3\Семестр 2 лаба 3\bin\Debug\Семестр 2 лаба 3.exe
+C:\Users\GamerHead\source\repos\Семестр 2 лаба 3\Семестр 2 лаба 3\bin\Debug\Семестр 2 лаба 3.pdb
+C:\Users\GamerHead\source\repos\Семестр 2 лаба 3\Семестр 2 лаба 3\obj\Debug\Семестр 2 лаба 3.csprojAssemblyReference.cache
+C:\Users\GamerHead\source\repos\Семестр 2 лаба 3\Семестр 2 лаба 3\obj\Debug\Семестр_2_лаба_3.Form1.resources
+C:\Users\GamerHead\source\repos\Семестр 2 лаба 3\Семестр 2 лаба 3\obj\Debug\Семестр_2_лаба_3.Properties.Resources.resources
+C:\Users\GamerHead\source\repos\Семестр 2 лаба 3\Семестр 2 лаба 3\obj\Debug\Семестр 2 лаба 3.csproj.GenerateResource.cache
+C:\Users\GamerHead\source\repos\Семестр 2 лаба 3\Семестр 2 лаба 3\obj\Debug\Семестр 2 лаба 3.csproj.CoreCompileInputs.cache
+C:\Users\GamerHead\source\repos\Семестр 2 лаба 3\Семестр 2 лаба 3\obj\Debug\Семестр 2 лаба 3.exe
+C:\Users\GamerHead\source\repos\Семестр 2 лаба 3\Семестр 2 лаба 3\obj\Debug\Семестр 2 лаба 3.pdb
+C:\Users\Gomerich\source\repos\Семестр 2 лаба 3\Семестр 2 лаба 3\bin\Debug\Семестр 2 лаба 3.exe.config
+C:\Users\Gomerich\source\repos\Семестр 2 лаба 3\Семестр 2 лаба 3\bin\Debug\Семестр 2 лаба 3.exe
+C:\Users\Gomerich\source\repos\Семестр 2 лаба 3\Семестр 2 лаба 3\bin\Debug\Семестр 2 лаба 3.pdb
+C:\Users\Gomerich\source\repos\Семестр 2 лаба 3\Семестр 2 лаба 3\obj\Debug\Семестр 2 лаба 3.csproj.AssemblyReference.cache
+C:\Users\Gomerich\source\repos\Семестр 2 лаба 3\Семестр 2 лаба 3\obj\Debug\Семестр 2 лаба 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gomerich\source\repos\Семестр 2 лаба 3\Семестр 2 лаба 3\obj\Debug\Семестр_2_лаба_3.Form1.resources
+C:\Users\Gomerich\source\repos\Семестр 2 лаба 3\Семестр 2 лаба 3\obj\Debug\Семестр_2_лаба_3.Properties.Resources.resources
+C:\Users\Gomerich\source\repos\Семестр 2 лаба 3\Семестр 2 лаба 3\obj\Debug\Семестр 2 лаба 3.csproj.GenerateResource.cache
+C:\Users\Gomerich\source\repos\Семестр 2 лаба 3\Семестр 2 лаба 3\obj\Debug\Семестр 2 лаба 3.csproj.CoreCompileInputs.cache
+C:\Users\Gomerich\source\repos\Семестр 2 лаба 3\Семестр 2 лаба 3\obj\Debug\Семестр 2 лаба 3.exe
+C:\Users\Gomerich\source\repos\Семестр 2 лаба 3\Семестр 2 лаба 3\obj\Debug\Семестр 2 лаба 3.pdb
